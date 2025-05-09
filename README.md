@@ -4,7 +4,7 @@ Today I’m excited to share a project that bridges the elegance of Unix tools w
 
 🔧 What I Built
 
-A Bash script (a2_compile_ogre.sh) that:
+A Bash script (compile_ogre.sh) that:
 
     Automates OGRE 3D compilation on Windows using MSYS2, leveraging Unix-like tools (GCC, CMake, Ninja).
 
