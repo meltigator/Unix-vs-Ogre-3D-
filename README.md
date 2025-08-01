@@ -1,10 +1,10 @@
-Unix Power on Windows: Optimizing OGRE 3D with MSYS2 and Advanced GCC Flags 
+## Unix Power on Windows: Optimizing OGRE 3D with MSYS2 and Advanced GCC Flags 
 
 Today I’m excited to share a project that bridges the elegance of Unix tools with the flexibility of Windows, demonstrating how to push the limits of performance for the open-source 3D rendering engine OGRE.
 
 - What I Built
 
-A Bash script (compile_ogre.sh) that:
+# A Bash script (compile_ogre.sh) that:
 
     Automates OGRE 3D compilation on Windows using MSYS2, leveraging Unix-like tools (GCC, CMake, Ninja).
 
