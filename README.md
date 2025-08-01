@@ -10,11 +10,11 @@ A Bash script (compile_ogre.sh) that:
 
     Optimizes code for modern hardware:
 
-        (*) Advanced SIMD instructions (SSE2, AVX2) to accelerate rendering.
+        1) Advanced SIMD instructions (SSE2, AVX2) to accelerate rendering.
 
-        (*) -march=native: Tailors compilation to your specific CPU for peak performance.
+        2) -march=native: Tailors compilation to your specific CPU for peak performance.
 
-        (*) Optimized NASM for high-performance assembly code.
+        3) Optimized NASM for high-performance assembly code.
 
     Supports parallel builds with Ninja, cutting compilation times by 40%+.
 
